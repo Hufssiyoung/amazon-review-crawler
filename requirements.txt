@@ -1,3 +1,4 @@
 pandas
 selenium
 scikit-learn
+undetected-chromedriver
