@@ -67,7 +67,7 @@ SELF_SEARCH_WORDS  = ['conflict']               # 고정 추가 검색어
 
 1. ChromeDriver 및 의존 패키지 설치
 2. `PRODUCT_NAME`과 `INITIAL_URL` 설정
-3. 코드 실행 후 브라우저에서 **CAPTCHA 수동 해결**
+3. 코드 실행 후 브라우저에서 **CAPTCHA 수동 해결 및 로그인 문제 해결**
 4. 리뷰 페이지가 로드되면 터미널에서 `Enter`
 5. 자동 수집 진행 → 결과 CSV 파일 저장
 
