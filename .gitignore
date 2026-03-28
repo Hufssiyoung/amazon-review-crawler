@@ -2,3 +2,4 @@ venv/
 *.csv
 .DS_Store
 analysis.ipynb
+Amazon_crawler_fixed.ipynb
